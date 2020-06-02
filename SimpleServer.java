@@ -1,5 +1,5 @@
 /*name: MIke Urbano
-Student ID: 1001242814 */
+Student ID */
 
 import java.io.*;
 import java.net.*;
